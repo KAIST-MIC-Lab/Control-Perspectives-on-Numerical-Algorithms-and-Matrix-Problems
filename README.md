@@ -1,4 +1,4 @@
-# Research Template for MIC Lab
+# Practical Methods for Optimal Control and Estimation Using Nonlinear Programming
 
 This project is highly inspired by the work of LMRES Lab, Hochschule München.
 Thank you very much my dear friend, Niklas Monzen, for your kind sharing and support.
